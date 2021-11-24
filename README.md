@@ -1,7 +1,12 @@
 
 
+### Examples 
 
-# https://hotexamples.com/de/examples/-/PushBullet/pushLink/php-pushbullet-pushlink-method-examples.html
+   * https://hotexamples.com/de/examples/-/PushBullet/pushLink/php-pushbullet-pushlink-method-examples.html
+   * a
+   * b
+   * c
+   * d
 
 Pushbullet for PHP
 ================

@@ -3,10 +3,10 @@
 ### Examples 
 
    * https://hotexamples.com/de/examples/-/PushBullet/pushLink/php-pushbullet-pushlink-method-examples.html
-   * a
-   * b
-   * c
-   * d
+   * https://docs.pushbullet.com/   
+   * Create Channel.  https://www.pushbullet.com/my-channel
+   * https://docs.pushbullet.com/#realtime-event-stream
+   * https://www.tutorialspoint.com/android/android_notifications.htm  
 
 Pushbullet for PHP
 ================
